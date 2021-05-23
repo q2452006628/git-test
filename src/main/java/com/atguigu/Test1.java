@@ -10,5 +10,6 @@ public class Test1 {
         System.out.println("test,hotfix");
         System.out.println("456654");
         System.out.println("123321");
+        System.out.println("push test");
     }
 }
