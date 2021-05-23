@@ -12,5 +12,6 @@ public class Test1 {
         System.out.println("123321");
         System.out.println("push test");
         System.out.println("push test1");
+        System.out.println("zcxg");
     }
 }
